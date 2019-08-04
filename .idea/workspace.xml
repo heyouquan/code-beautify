@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab06883-13e4-4568-8124-e10b2683baa2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commitlint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/del/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/del/license" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/del/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/del/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/gitignore.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/gitignore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-cwd/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-cwd/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-cwd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-cwd/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-cwd/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-cwd/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-in-cwd/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-in-cwd/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-in-cwd/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-in-cwd/license" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-in-cwd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-in-cwd/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-in-cwd/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-in-cwd/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-inside/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-inside/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-inside/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-inside/license" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-inside/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-inside/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-path-inside/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-inside/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/onetime/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/onetime/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/onetime/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/onetime/license" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/onetime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/onetime/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/onetime/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/onetime/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -44,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+            <state relative-caret-position="315">
+              <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -62,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -93,8 +65,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main.ts" />
         <option value="$PROJECT_DIR$/commitlint.config.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -185,12 +157,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564915049876</updated>
-      <workItem from="1564915051019" duration="4346000" />
+      <workItem from="1564915051019" duration="4494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4346000" />
+    <option name="totallyTimeSpent" value="4494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -238,17 +210,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
         </state>
       </provider>
     </entry>
