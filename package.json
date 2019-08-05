@@ -52,11 +52,12 @@
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
-      "post-merge": "lint-staged"
+      "post-merge": "lint-staged",
+      "commit-msg": "commitlint -e $HUSKY_GIT_PARAMS"
     }
   },
   "lint-staged": {
-    "src/**/*.{js,jsx,ts,tsx,md,html}": [
+    "src/**/*.{js,jsx,ts,tsx,md,html,json}": [
       "prettier --write",
       "git add"
     ]
